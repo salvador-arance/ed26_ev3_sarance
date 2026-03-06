@@ -1,1 +1,1 @@
-# ed26_ev3_sarance
+/bin
